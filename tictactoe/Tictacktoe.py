@@ -1,8 +1,6 @@
 
 from colors import bcolors as c
 
-"""hej"""
-
 class TicTacToe:
 
     def __init__(self, grid_size):
