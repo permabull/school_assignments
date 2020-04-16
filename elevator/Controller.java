@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Controller{
 
   private int nFloorsToTravel = 0;
