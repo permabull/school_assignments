@@ -1,3 +1,6 @@
+#Passwordmanager with SQL server running on a RBP
+
+
 import mysql.connector
 from mysql.connector import Error
 
