@@ -1,4 +1,3 @@
-
 from os import system, name
 from colors import bcolors as c
 from Tictacktoe import TicTacToe
