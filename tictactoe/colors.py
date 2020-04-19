@@ -1,5 +1,4 @@
 
-#Found on stackoverlfow
 class bcolors:
     OKBLUE = '\033[94m'
     WARNING = '\033[93m'
