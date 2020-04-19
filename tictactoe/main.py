@@ -5,7 +5,7 @@ import csv
 import pandas as pd
 
 def clear_screen():
-    """Found this on stackoverflow to "clear" the terminal to make the game look better.
+    """Clear the terminal to make the game look better.
     Works for windows/linux/mac"""
 
     if name == 'nt':
