@@ -1,3 +1,0 @@
-[submodule "ansible-playbooks"]
-	path = ansible-playbooks
-	url = git@github.com:permabull/school_assignments.git
